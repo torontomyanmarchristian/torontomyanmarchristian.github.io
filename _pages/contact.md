@@ -1,0 +1,21 @@
+---
+layout: base
+title: Toronto Myanmar Christian Church
+link: contact
+permalink: /contact/
+---
+
+# Toronto Myanmar Christian Church
+
+## Address
+
+> 650 McNicoll Avenue  
+> Toronto, Ontario M2H 2E1  
+> Tel: (000) 000-0000  
+> Email: info@torontomyanmarchristian.org  
+
+[View on Google Map](https://goo.gl/maps/KyQRXtthwkq)
+
+## Social Media
+
+[Facebook](https://www.facebook.com/Toronto-Myanmar-Christian-Fellowship-123818291003915/)

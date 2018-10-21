@@ -1,0 +1,37 @@
+<div class="navbar-wrapper">
+    <div class="container">
+        <div class="navbar navbar-inverse navbar-static-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="/">TMCC</a>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li {% if page.link == 'about' %}class="active"{% endif %}>
+                            <a href="/about">About</a>
+                        </li>
+                        <li {% if page.link == 'ministries' %}class="active"{% endif %}>
+                            <a href="/ministries">Ministries</a>
+                        </li>
+                        <li {% if page.link == 'resources' %}class="active"{% endif %}>
+                            <a href="/sermons">Sermons</a>
+                        </li>
+                        <li {% if page.link == 'contact' %}class="active"{% endif %}>
+                            <a href="/contact">Contact</a>
+                        </li>
+                        <li>
+                            <a href="https://www.facebook.com/Toronto-Myanmar-Christian-Fellowship-123818291003915/" target="_blank">
+                                <img alt="Facebook" height="16" src="/static/img/icons/facebook.png"/>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

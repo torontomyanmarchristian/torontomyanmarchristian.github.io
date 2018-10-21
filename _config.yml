@@ -1,0 +1,15 @@
+# Site settings
+title: Toronto Myanmar Christian Church.
+email: admin@lwinmoe.org
+description: > # this means to ignore newlines until "baseurl:"
+   Toronto Myanmar Christian Church.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://tmcc.ca" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+include: ['_pages']
+
+sass:
+    style: compressed

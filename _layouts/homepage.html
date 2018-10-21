@@ -1,0 +1,20 @@
+<html>
+  {% include _head.html %}
+  {% include _google_analytics.html %}
+  <body>
+    <div id="wrap">
+      {% include _menu.html %}
+      {{ content }}
+    </div>
+    {% include _js.html %}
+    {% include _footer.html %}
+    <script>
+      !function ($) {
+        $(function(){
+          // carousel demo
+          $('#myCarousel').carousel()
+        })
+      }(window.jQuery)
+    </script>
+  </body>
+</html>
