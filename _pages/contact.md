@@ -16,10 +16,13 @@ permalink: /contact/
 
 [View on Google Map](https://goo.gl/maps/KyQRXtthwkq)
 
+## News
+
+[News](http://news.torontomyanmarchristian.org)
+
 ## Social Media
 
 [Facebook](https://www.facebook.com/Toronto-Myanmar-Christian-Fellowship-123818291003915/)
 
 [YouTube](https://www.youtube.com/channel/UCEpS1aee_rkysom6EILevvQ)
 
-[News](http://news.torontomyanmarchristian.org)
