@@ -11,8 +11,7 @@ permalink: /contact/
 
 > 650 McNicoll Avenue  
 > Toronto, Ontario M2H 2E1  
-> Tel: (000) 000-0000  
-> Email: info@torontomyanmarchristian.org  
+> Email: torontomyanmarchristian@gmail.com  
 
 [View on Google Map](https://goo.gl/maps/KyQRXtthwkq)
 

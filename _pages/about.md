@@ -5,9 +5,10 @@ link: about
 permalink: /about/
 ---
 
-## Who we are
+## History
 
-TMCC members are originally form Myanmar (Burma). We welcome every believers who speak Burmese form all denominations to worship and fellowship with us. Yong Nak Korean Presbyterian Church allows us to use one of their rooms every Sunday. Our mission is to let Burmese people in Toronto know the salvation through our Lord Jesus Christ. 
+We started fellowship and worship service since 2006 with believers who came from Myanmar and resettled in Toronto. 
+There were five families at the beginning. We started as a home church.
 
 ## Worship
 
@@ -22,8 +23,7 @@ TMCC members are originally form Myanmar (Burma). We welcome every believers who
 <img src="/static/img/photos/solomon_james.jpg" class="img-responsive" 
 alt="Rev. and Mrs. Solomon James">
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
-Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
 
 
 ---------------------------------------
@@ -34,5 +34,4 @@ Ipsum has been the industry's standard dummy text ever since the 1500s, when an 
 <img src="/static/img/photos/thay_su_lah.jpg" class="img-responsive" 
 alt="">
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem 
-Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+

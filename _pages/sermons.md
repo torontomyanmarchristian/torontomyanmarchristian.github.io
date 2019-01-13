@@ -7,3 +7,4 @@ permalink: /sermons/
 
 # Sermons
 
+[YouTube](https://www.youtube.com/channel/UCEpS1aee_rkysom6EILevvQ)
