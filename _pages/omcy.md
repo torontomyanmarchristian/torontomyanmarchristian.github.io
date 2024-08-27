@@ -2,7 +2,7 @@
 layout: base
 title: Toronto Myanmar Christian Church
 link: omcy
-permalink: /omch/
+permalink: /omcy/
 ---
 
 # Youth Ministry
