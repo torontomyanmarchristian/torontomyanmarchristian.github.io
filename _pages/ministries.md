@@ -5,4 +5,4 @@ link: ministries
 permalink: /ministries/
 ---
 
-# Women Ministries
+# Women Ministry
