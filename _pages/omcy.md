@@ -7,4 +7,7 @@ permalink: /omcy/
 
 # Youth Ministry
 
-![OMCY Logo](/static/img/OMCY_animation.gif)
+<img src="/static/img/OMCY_animation.gif" alt="OMCY Logo" width="200"/>
+
+Hello World
+
