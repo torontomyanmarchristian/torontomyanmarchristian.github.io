@@ -7,3 +7,4 @@ permalink: /omcy/
 
 # Youth Ministry
 
+![OMCY Logo](/static/img/OMCY_animation.gif)
