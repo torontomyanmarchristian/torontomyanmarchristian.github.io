@@ -9,5 +9,5 @@ permalink: /omcy/
 
 <img src="/static/img/OMCY_animation.gif" alt="OMCY Logo" width="500"/>
 
-Hello World
+Toronto Myanmar Christian Youth Group.
 
