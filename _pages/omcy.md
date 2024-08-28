@@ -18,7 +18,7 @@ Welcome to Overseas Myanmar Christian Youth! We are a vibrant community of young
 
 
 
-- Follow [Toronto Myanmar Christian Youth Group](http://omcy.torontomyanmarchristian.org/) for updates.
+- Follow [Toronto Myanmar Christian Youth](http://omcy.torontomyanmarchristian.org/) for updates.
 - [Instagram](https://www.instagram.com/mcyouthofficial?igsh=dnV2eHhqZ2JhOHRs)
 - [Facebook](https://www.facebook.com/profile.php?id=61563995740184)
 
