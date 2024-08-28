@@ -8,4 +8,6 @@ permalink: /women/
 # Women Ministry
 
 
-<img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="/static/img/TMCC women logo.png" alt="OMCY Logo" width="500"/>
+
+
+<img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="/static/img/TMCC women logo.png" alt="OMCY Logo" width="500"/>
