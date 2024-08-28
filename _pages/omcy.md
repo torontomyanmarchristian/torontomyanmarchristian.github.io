@@ -7,7 +7,7 @@ permalink: /omcy/
 
 
 <center>
-  <p># Youth Ministry</p>
+  # Youth Ministry
 </center>
 
 
