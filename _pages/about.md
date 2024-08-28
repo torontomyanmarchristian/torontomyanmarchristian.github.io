@@ -17,9 +17,11 @@ There were five families at the beginning. We started as a home church.
 - Sunday School: 2:00 p.m. every Sunday.
 - Bible Study: 2:00 p.m. every Satruday.
 
+-----------------------------------------
+
 ## Pastors
 
-### Pastor Solomon James
+#### Solomon James
 
 <img src="/static/img/photos/solomon_james.jpg" class="img-responsive" 
 alt="Rev. and Mrs. Solomon James">
@@ -30,7 +32,7 @@ alt="Rev. and Mrs. Solomon James">
 ---------------------------------------
 
 
-### Pastor Thay Su Lah
+#### Thay Su Lah
 
 <img src="/static/img/photos/thay_su_lah.jpg" class="img-responsive" 
 alt="">
