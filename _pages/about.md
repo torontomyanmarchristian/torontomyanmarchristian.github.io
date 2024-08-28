@@ -4,12 +4,18 @@ title: Toronto Myanmar Christian Church
 link: about
 permalink: /about/
 ---
+
+## Welcome to Toronto Myanmar Christian Church
+
 <img style="display: block; margin-left: auto; margin-right: auto; width: 20%;" src="/static/img/TMCC logo.png" alt="OMCY Logo" width="500"/>
 
 ## History
 
-We started fellowship and worship service since 2006 with believers who came from Myanmar and resettled in Toronto. 
-There were five families at the beginning. We started as a home church.
+Toronto Myanmar Christian Church (TMCC) is a multiethnic Church which is located at 650, McNicoll Ave, North York, ON M2H 2E1. We hold our regular inperson meeting on every Sunday from 2:00 PM to 5:00 PM as well as online zoom meeting.
+
+We started geather and worship God since 2006, as a home church, with a few families at the beginning. Now, by the Grace of God, we are reaching more people with the good news of Jesus, share together and support one another. Let's love on another as He has loved us.
+
+Once again, Welcome!
 
 ## Worship
 
