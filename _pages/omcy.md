@@ -9,7 +9,7 @@ permalink: /omcy/
 
 <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="/static/img/OMCY_animation.gif" alt="OMCY Logo" width="500"/>
 
-[Toronto Myanmar Christian Youth Group](http://omcy.torontomyanmarchristian.org/) is our website.
+Follow [Toronto Myanmar Christian Youth Group](http://omcy.torontomyanmarchristian.org/) for updates.
 
 
 
