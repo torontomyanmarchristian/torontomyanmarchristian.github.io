@@ -14,7 +14,7 @@ permalink: /omcy/
 <img style="display: block; margin-left: auto; margin-right: auto; width: 50%;" src="/static/img/OMCY_animation.gif" alt="OMCY Logo" width="500"/>
 
 
-## Welcome to Overseas Myanmar Christian Youth! 
+### Welcome to Overseas Myanmar Christian Youth! 
 
 We are a vibrant community of young believers around the world, united by our love for Christ and our shared mission to make a difference. As children of Christ, we are committed to living out our faith by serving others and spreading the message of God. Our mission is to be a bridge, connecting hearts across the seas, and to shine the light of Christ in our hearts and beyond. Join us as we grow together in faith, fellowship, and service.
 
