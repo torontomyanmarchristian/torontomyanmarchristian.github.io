@@ -4,6 +4,7 @@ title: Toronto Myanmar Christian Church
 link: about
 permalink: /about/
 ---
+<img style="display: block; margin-left: auto; margin-right: auto; width: 30%;" src="/static/img/TMCC logo.png" alt="OMCY Logo" width="500"/>
 
 ## History
 
