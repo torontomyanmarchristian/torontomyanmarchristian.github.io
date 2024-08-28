@@ -5,4 +5,4 @@ link: men
 permalink: /men/
 ---
 
-# Men
+# Men Ministry
