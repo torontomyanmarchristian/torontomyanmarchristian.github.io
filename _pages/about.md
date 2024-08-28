@@ -20,6 +20,8 @@ Let's love on another as He has loved us.
 
 Once again, Welcome!
 
+
+
 ## Worship
 
 - Worship Service: 2:00 p.m. every Sunday.
@@ -29,6 +31,8 @@ Once again, Welcome!
 - Bible Study: 2:00 p.m. every Satruday.
 
 -----------------------------------------
+
+
 
 ## Pastors
 
