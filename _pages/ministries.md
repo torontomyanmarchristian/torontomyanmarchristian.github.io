@@ -1,8 +1,8 @@
 ---
 layout: base
 title: Toronto Myanmar Christian Church
-link: Women
-permalink: /Women/
+link: women
+permalink: /women/
 ---
 
 # Women Ministry
