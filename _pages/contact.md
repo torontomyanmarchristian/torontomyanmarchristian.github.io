@@ -15,9 +15,6 @@ permalink: /contact/
 
 [View on Google Map](https://goo.gl/maps/KyQRXtthwkq)
 
-## News
-
-[News](http://news.torontomyanmarchristian.org)
 
 ## Social Media
 
