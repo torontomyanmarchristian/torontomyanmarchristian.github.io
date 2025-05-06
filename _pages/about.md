@@ -21,9 +21,9 @@ Once again, Welcome!
 
 ## Worship
 
-- Worship Service: 2:00 p.m. every Sunday.
+- Worship Service: 3:00 p.m. every Sunday.
 
-- Sunday School: 2:00 p.m. every Sunday.
+- Sunday School: 3:00 p.m. every Sunday.
 
 - Bible Study: 2:00 p.m. every Satruday.
 
